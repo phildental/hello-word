@@ -1,3 +1,7 @@
+# Olá, mundo!
+
+Em terra de minhoca cega, macarronada é suruba.
+
 echo "# hello-word" >> README.md
 git init
 git add README.md
